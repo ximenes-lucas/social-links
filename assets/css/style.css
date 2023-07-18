@@ -62,6 +62,11 @@ body{
   font-size: 14px;
 }
 
+.linkedin:hover, .github:hover, .steam:hover, .twitch:hover{
+    background-color:#bb99dd;
+    color:#fff;
+}
+
 .profile-icons{
     display: flex;
     justify-content: center;
