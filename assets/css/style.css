@@ -57,14 +57,14 @@ body{
   align-items: center;
   border:1px solid #bb99dd;
   margin-bottom:10px;
-  padding:10px 130px;;
+  padding:10px 130px;
   font-weight: 600;
   font-size: 14px;
 }
 
 .linkedin:hover, .github:hover, .steam:hover, .twitch:hover{
     background-color:#bb99dd;
-    color:#fff;
+    color:#ffffff;
 }
 
 .profile-icons{
